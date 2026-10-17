@@ -4,6 +4,20 @@ A 3D flying game made for the iPhone 14. Skim a glowing sea at sundown, fly thro
 
 **Play:** https://hardwaremack-prog.github.io/dusk-glider/
 
+<p align="center">
+  <img src="screenshots/title.jpg" alt="Dusk Glider title screen" width="260">
+  <img src="screenshots/flying.jpg" alt="Flying low between glowing spires" width="260">
+  <img src="screenshots/rings.jpg" alt="Lining up a ring past a tall spire" width="260">
+</p>
+
+<p align="center">
+  <img src="screenshots/landscape.jpg" alt="Flying sideways over the reflective sea at sundown" width="800">
+</p>
+
+<p align="center">
+  <img src="screenshots/landscape-title.jpg" alt="Title screen with the phone turned sideways" width="800">
+</p>
+
 ## Put it on your iPhone home screen
 1. Open the Play link in **Safari**.
 2. Tap **Share**, then **Add to Home Screen**.
